@@ -20,7 +20,7 @@ root = Tk()
 root.title(f"Passwort Generator v{Version}")
 root.resizable(False, False)  # T
 #root.geometry("500x500")  #500x300 default without Checkboxes
-#root.iconbitmap('test2.ico')
+root.iconbitmap('test2.ico') # Ads a Ico Picture to the Programm 
 
 # places window in the middle
 window_height = 300 #y    type here the height of the main window
