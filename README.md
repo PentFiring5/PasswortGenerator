@@ -1,2 +1,2 @@
 # PassWortGenerator
-PasswordGenerator
+PasswordGenerator zum Generieren von Passwortern
