@@ -1,0 +1,119 @@
+                >>>>User Guide PasswordGenerator<<<<
+                        Updeted 16.02.2022 
+                      Programm Version: 3.4.0
+                 
+				>>>How to use PasswordGenerator?<<<
+
+>>1. Type in the entry under the Question "Wie viele Zeichen?" the number witch gives you the amount of 
+pasword characters.
+
+>>2. Push the Buton "Password Generieren" and it generates an password.
+
+
+
+
+                          >>>Ui Buttons<<<
+
+Button "Password Generieren"
+-> Generates the password after giving the amount of how long the password schould be.
+
+Button "Abbrechen"
+-> Closes the programm.
+
+Button "In Zwischenablage kopieren"
+-> Copies the Password in your clipboard.
+(Alternative: You can use the mouse rightclick menü and click on "Kopieren" option.)
+
+Button "OK" at the popup
+-> Push it to close the Popup or use the cross ot the top right side of the window
+
+
+
+                    >>>Mouse Rightclick Menü<<<
+
+
+In the menü are 6 Options...
+
+>>> 1. option: Kopieren
+-> Copies the generated Password.
+
+
+>>> 2. Option: Password löschen
+-> Deleates the generated Password.
+
+
+>>> 3. Option: Characterzahl löschen
+-> Deleates the Typed in Number for the amount of Password Characters .
+
+
+>>> 4. Option: Changelog
+-> Opens text File with new Changes updates for this programm in it.
+
+
+>>> 5. Option: Hilfe
+-> Opens This Help text File where you can read how to use this programm.
+
+
+>>> 6. Option: Programm Schließen
+-> Closes the programm.
+
+                      
+
+
+					  >>>Keyboard Bindings<<<
+				
+>>> I added in version 3.2.0 Keybindings to all Buttons and funktions except for the Checkboxes.
+>>> Every Keybinding is in the rightclick menü shown and can be used.
+
+
+>>> The Keyboardbindings in the right order from the rightclicmenü from top to bottom
+
+1.  Kopieren = STRG+C
+2   Passwort löschen = ALT+P
+3.  Characterzahl löschen = ALT+C	
+4.  Passwort generieren = ENTER
+5.  Alles löschen = ENTF/DEL
+
+6.  Hilfe = F1
+7.  KeyBindings = ALT+K
+8.  Danke ❤ = ALT+D
+9.  Changelog = STRG+D
+10. Lizenz = ALT+L
+11. Information = ALT+I
+
+12. Programm schließen = ESC
+
+                         
+
+
+						 >>>Information<<< 
+
+If you type nothing in the entry under the question "Wie viele Zeichen"
+there will pop up an window that says "Bitte eine Zahl eigeben"
+that means Please enter an number (for the amount of the characters in your password).
+It disapears after 5s.
+
+If you have kopied thrue the Button " In Zwischenablage kopieren" or thrue the 
+Mouse rightclick menü option "Kopieren" (More Info in the 6 menü options and in the Ui Buttons Appartment)
+ore thrue the Keybinding there will also pop up an Window that says "Kopiert" (that means copied)
+It disapears after 3s.
+
+Use the Ok Button to close the Popups
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

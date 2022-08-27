@@ -1,0 +1,24 @@
+
+					  >>>Keyboard Bindings<<<
+				
+>>> I added in version 3.2.0 Keybindings to all Buttons and funktions except for the Checkboxes.
+>>> Every Keybinding is in the rightclick menü shown and can be used.
+
+
+>>> The Keyboardbindings in the right order from the rightclicmenü from top to bottom
+
+1.  Kopieren = STRG+C
+2   Passwort löschen = ALT+P
+3.  Characterzahl löschen = ALT+C	
+4.  Passwort generieren = ENTER
+5.  Alles löschen = ENTF/DEL
+
+6.  Hilfe = F1
+7.  KeyBindings = ALT+K
+8.  Danke ❤ = ALT+D
+9.  Changelog = STRG+D
+10. Lizenz = ALT+L
+11. Information = ALT+I
+
+
+12. Programm schließen = ESC
